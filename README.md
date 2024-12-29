@@ -1,0 +1,2 @@
+# PHP Unexpected Array Behavior
+This example demonstrates a subtle but common issue in PHP related to arrays, type hinting, and pass-by-reference. The `processData` function might unintentionally modify the original array, leading to surprising results.
